@@ -5,7 +5,7 @@ Rhythmix Client aims to play music at your desktop using MANUALLY DOWNLOADED MP3
 
 # Features
 
-1. Easy to set up.\
+1. Easy to set up.
 2. FREE and NO ads. (most important)
 3. Open Source.
 4. Works offline. :)
