@@ -1,12 +1,12 @@
 # Rhythmix-Client
 
-READ LICENSE FIRST.
-Rhythmix Client aims to play music at your desktop using MP3 files (later other file formats too).
+READ LICENSE FIRST.\
+Rhythmix Client aims to play music at your desktop using MP3 files (later other file formats too).\
 
 # Features
 
-Easy to set up.
-FREE.
+Easy to set up.\
+FREE.\
 
 # How to use
 1. Install Python 3.12.4 on your PC.
