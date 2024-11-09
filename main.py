@@ -61,7 +61,7 @@ if __name__ == '__main__':
     print("\n\n********** Music Player **********\n\n")
     print("Credits: Poseidon4767 for making the ENTIRE code.")
     print("Github Profile: https://github.com/Poseidon4767")
-    print("Publishing license: MIT License (free to use, edit and share, as long as credits are given to the original creator.")
+    print("Publishing license: GNU License")
     print("Only MP3 files are supported for now!\n\n")
     player = MusicPlayer()
     player.main()
