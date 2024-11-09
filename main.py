@@ -58,7 +58,7 @@ class Rhythmix_Client:
                 sys.exit("Goodbye! :)")
 
 if __name__ == '__main__':
-    print("\n\n********** Music Player **********\n\n")
+    print("\n\n********** Rhythmix Client **********\n\n")
     print("Credits: Poseidon4767 for making the ENTIRE code.")
     print("Github Profile: https://github.com/Poseidon4767")
     print("Publishing license: GNU License")
