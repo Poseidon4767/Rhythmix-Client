@@ -4,7 +4,7 @@ import random
 import glob
 import sys
 
-class MusicPlayer:
+class Rhythmix_Client:
     def __init__(self):
         self.folder_path = os.path.join(os.path.dirname(__file__), "music")
         self.music_path = glob.glob(os.path.join(self.folder_path, "*.mp3"))
@@ -63,5 +63,5 @@ if __name__ == '__main__':
     print("Github Profile: https://github.com/Poseidon4767")
     print("Publishing license: GNU License")
     print("Only MP3 files are supported for now!\n\n")
-    player = MusicPlayer()
+    player = Rhythmix_Client()
     player.main()
