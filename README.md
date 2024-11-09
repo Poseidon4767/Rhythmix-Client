@@ -6,7 +6,7 @@ Rhythmix Client aims to play music at your desktop using MP3 files (later other 
 # Features
 
 Easy to set up.\
-FREE.\
+FREE.
 
 # How to use
 1. Install Python 3.12.4 on your PC.
