@@ -19,5 +19,7 @@ Rhythmix Client aims to play music at your desktop using MANUALLY DOWNLOADED MP3
 6. Run `pip install -r requirements.txt`
 7. Wait for the previous command to finish.
 8. Run `python main.py`. If that does not work, run `python3 main.py`
-9. Make a folder and name it 'music' in the same folder where main.py is located.
-10. Download some audio files and put them in the 'music' folder.
+
+# Important
+Make a folder and name it 'music' in the same folder where main.py is located.
+Download some audio files and put them in the 'music' folder.
