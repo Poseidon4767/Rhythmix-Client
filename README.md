@@ -5,8 +5,10 @@ Rhythmix Client aims to play music at your desktop using MANUALLY DOWNLOADED MP3
 
 # Features
 
-Easy to set up.\
-FREE.
+1. Easy to set up.\
+2. FREE and NO ads. (most important)
+3. Open Source.
+4. Works offline. :)
 
 # How to use
 1. Install Python 3.12.4 on your PC.
