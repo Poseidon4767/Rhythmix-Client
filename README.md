@@ -1,6 +1,6 @@
 # Rhythmix-Client
 
-Read license first.
+READ LICENSE FIRST.
 Rhythmix Client aims to play music at your desktop using MP3 files (later other file formats too).
 
 # Features
