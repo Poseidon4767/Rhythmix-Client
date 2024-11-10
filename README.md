@@ -10,6 +10,7 @@ Windows only (for now).
 2. FREE and NO ads. (most important)
 3. Open Source.
 4. Works offline.   :)
+5. Make your own playlists, search from your playlist or play random!
 
 # How to use
 1. Install Python 3.12.4 on your PC.
