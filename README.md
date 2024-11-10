@@ -16,7 +16,7 @@ Windows only (for now).
 2. Click on the green `<> Code` button.
 3. Click `Download zip`.
 4. Extract the downloaded zip.
-5. Open a terminal in the extracted folder. (On Windows 11, right click in the folder where the zip has been extracted and select 'Open Terminal')
+5. Open a terminal in the extracted folder. (On Windows 11, right click inside the folder which was extracted and select 'Open Terminal')
 6. Run `pip install -r requirements.txt`
 7. Wait for the previous command to finish.
 8. Run `python main.py`. If that does not work, run `python3 main.py`
