@@ -2,6 +2,7 @@
 
 ### READ LICENSE FIRST. ###
 Rhythmix Client aims to play music at your desktop using MANUALLY DOWNLOADED MP3 files (later other file formats too).
+Windows only (for now).
 
 # Features
 
